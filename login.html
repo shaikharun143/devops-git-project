@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - DevOps Portfolio</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body{
+            height:100vh;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            background:linear-gradient(135deg, #0f172a, #1e293b);
+        }
+
+        .login-container{
+            background:white;
+            padding:30px;
+            border-radius:12px;
+            width:350px;
+            box-shadow:0 4px 15px rgba(0,0,0,0.3);
+        }
+
+        .login-container h2{
+            text-align:center;
+            margin-bottom:20px;
+            color:#1e293b;
+        }
+
+        .input-group{
+            margin-bottom:15px;
+        }
+
+        .input-group label{
+            display:block;
+            margin-bottom:5px;
+            font-weight:bold;
+        }
+
+        .input-group input{
+            width:100%;
+            padding:10px;
+            border:1px solid #ccc;
+            border-radius:6px;
+        }
+
+        .login-btn{
+            width:100%;
+            padding:10px;
+            background:#2563eb;
+            color:white;
+            border:none;
+            border-radius:6px;
+            cursor:pointer;
+            font-size:16px;
+        }
+
+        .login-btn:hover{
+            background:#1d4ed8;
+        }
+
+        .footer-text{
+            text-align:center;
+            margin-top:15px;
+            font-size:14px;
+            color:#555;
+        }
+
+        .footer-text a{
+            text-decoration:none;
+            color:#2563eb;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="login-container">
+        <h2>DevOps Login</h2>
+
+        <form>
+            <div class="input-group">
+                <label>Email</label>
+                <input type="email" placeholder="Enter your email" required>
+            </div>
+
+            <div class="input-group">
+                <label>Password</label>
+                <input type="password" placeholder="Enter your password" required>
+            </div>
+
+            <button type="submit" class="login-btn">
+                Login
+            </button>
+        </form>
+
+        <p class="footer-text">
+            Don't have an account?
+            <a href="#">Register</a>
+        </p>
+    </div>
+
+</body>
+</html>
