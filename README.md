@@ -87,7 +87,24 @@ Collaboration using GitHub Pull Requests
 Version control best practices
 Managing DevOps workflows efficiently
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Harun Yahya Shaik
+Harun Yahya Shaik 
+
 DevOps & Cloud Enthusiast
+
+#OUTPUT SCREENSHOT
+
+<img width="1110" height="585" alt="image" src="https://github.com/user-attachments/assets/eb3358dd-57e0-4e4d-b108-106c92da41b8" />
+
+<img width="981" height="588" alt="image" src="https://github.com/user-attachments/assets/ef9d6fe6-f015-4833-a75f-2c6bdef3294a" />
+
+<img width="898" height="590" alt="image" src="https://github.com/user-attachments/assets/0e042605-11bb-48fd-b4aa-14618bb82702" />
+
+<img width="886" height="581" alt="image" src="https://github.com/user-attachments/assets/4d5fdcb6-512a-4b53-8915-36d0a028d124" />
+
+<img width="803" height="547" alt="image" src="https://github.com/user-attachments/assets/d8d4a59d-7914-4174-ad5c-cf7f1f356be8" />
+
+
+
+
